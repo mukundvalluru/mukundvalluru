@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mukundvalluru
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity from business perspective
+- 👀 I’m interested in data science and getting insights from data.
 
 
 <!---
