@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mukundvalluru
-- 👀 I’m interested in data science and getting insights from data.
+- 👀 I’m interested in building Agents using LLMs to automate tasks.
 
 
 <!---
